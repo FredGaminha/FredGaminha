@@ -4,7 +4,8 @@
 <p align="left"> Olá, sou Renan -- um analista de sistemas que está estudando <b>Python</b> e <b>JavaScript</b> para ser tornar um desenvolvedor back-end.</p>
 <p align="left"> Atualmente tenho 23 anos e sou formado em <b>Análise e Desenvolvimento de Sistemas</b>.</p>
 <p align="left"> Trabalho com criação de relatórios pelo banco de dados <b>Oracle</b> e <b>MySQL</b>, também faço criações de dashboards utilizando a ferramenta <b>Power BI</b>.</p>
-<p align="left"> Ah... Eu costumo fazer desenhos como um hobby quando preciso me desligado do mundo</p>
+<p align="left"> Ah... Eu costumo fazer desenhos como um hobby quando preciso me desligar do mundo.</p>
+<p align="left"> Atualmente, estou trabalhando (em meu tempo livre) em um mod utilizando meus amigos para o <b>The Binding of Isaac: Repentance</b> e futuramente um mod para o <b>Cookie Clicker</b>:cookie:</p>
 
 
 
