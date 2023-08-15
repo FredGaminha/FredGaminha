@@ -1,5 +1,6 @@
 <h1 align="center"> Olá, me chamo Renan </h1>
-<img src="https://github.com/FredGaminha/FredGaminha/assets/129427797/9f525f46-6a2b-4779-8b20-718fb56f09fb" align = "right">
+<img src="https://media.tenor.com/1-DYLDMydagAAAAj/mario-paper-mario.gif" align = "right">
+<!-- <img src="https://github.com/FredGaminha/FredGaminha/assets/129427797/9f525f46-6a2b-4779-8b20-718fb56f09fb" align = "right"> -->
 
 <p align="left"> Olá, sou Renan -- um analista de sistemas que está estudando <b>Python</b> e iniciando <b>Django</b> para ser tornar um desenvolvedor back-end.</p>
 <p align="left"> Atualmente tenho 24 anos e sou formado em <b>Análise e Desenvolvimento de Sistemas</b>.</p>
