@@ -7,7 +7,7 @@
 <p align="left"> Trabalho com criação de relatórios pelo banco de dados <b>Oracle</b>, <b>MySql</b> e <b>MySQL</b>, também faço criações de dashboards utilizando a ferramenta <b>Power BI</b>.</p>
 <p align="left"> Ah... como hobby costumo fazer desenhos quando preciso me desligar do mundo.</p>
 
-
+<br />
 
 <h2 align = "center">Meus conhecimentos:</h2>
 <p align = "center">
