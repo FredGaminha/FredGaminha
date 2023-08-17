@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, me chamo Renan </h1>
-<img src="https://ibb.co/WPRkXwx" align = "right">
+<img src="https://i.ibb.co/JySvT4B/ezgif-com-gif-maker.gif" align = "right">
 <!-- <img src="https://github.com/FredGaminha/FredGaminha/assets/129427797/9f525f46-6a2b-4779-8b20-718fb56f09fb" align = "right"> -->
 
 <p align="left"> Olá, sou Renan -- um analista de sistemas que está estudando <b>Python</b> e iniciando <b>Django</b> para ser tornar um desenvolvedor back-end.</p>
