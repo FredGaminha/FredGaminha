@@ -3,7 +3,7 @@
 <!-- <img src="https://i.ibb.co/JySvT4B/ezgif-com-gif-maker.gif" align = "right"> -->
 <!-- <img src="https://github.com/FredGaminha/FredGaminha/assets/129427797/9f525f46-6a2b-4779-8b20-718fb56f09fb" align = "right"> -->
 
-<p align="left"> Olá, sou Renan -- um analista de sistemas que está estudando <b>Python</b> e iniciando <b>Django</b> para ser tornar um desenvolvedor back-end.</p>
+<p align="left"> Prazer em te conhecer, vou contar um pouco sobre mim -- sou um analista de sistemas que está estudando <b>Python</b> e iniciando <b>Django</b> para ser tornar um desenvolvedor back-end.</p>
 <p align="left"> Atualmente tenho 24 anos e sou formado em <b>Análise e Desenvolvimento de Sistemas</b>.</p>
 <p align="left"> Trabalho com criação de relatórios pelo banco de dados <b>Oracle</b>, e <b>MySQL</b>, também faço criações de dashboards utilizando a ferramenta <b>Power BI</b>.</p>
 <p align="left"> Ah... como hobby costumo fazer desenhos quando preciso me desligar do mundo ou de vez em quando, crio alguns mods para alguns tipos de jogos.</p>
