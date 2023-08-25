@@ -16,6 +16,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100" height="100" /> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="100" height="100" /> </a>
   <a href="https://powerbi.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="Power BI" width="100" height="100" /> </a>
+  <a href="https://www.lua.org" target = "_blank" rel = "noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt = "Lua" width = "100" height = "100" /> </a>
 </p>
 
 <!--
