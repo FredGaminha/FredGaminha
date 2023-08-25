@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, me chamo Renan </h1>
-<img src = "https://ibb.co/s27Q53r" align = "right">
+<img src="https://ibb.co/s27Q53r" align = "right">
 <!-- <img src="https://i.ibb.co/JySvT4B/ezgif-com-gif-maker.gif" align = "right"> -->
 <!-- <img src="https://github.com/FredGaminha/FredGaminha/assets/129427797/9f525f46-6a2b-4779-8b20-718fb56f09fb" align = "right"> -->
 
