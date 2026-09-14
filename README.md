@@ -18,4 +18,5 @@
   <a href="https://powerbi.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="70" height="90" /> </a>
   <a href="https://www.lua.org" target = "_blank" rel = "noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua" width="100" height="100" /> </a>
   <a href="https://fastapi.tiangolo.com/" target = "_blank" rel = "noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt = "FastAPI" width = "100" height = "100" /> </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target = "_blank" rel = "noreferrer"> <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt = "Flask" width = "100" height = "100" /> </a>
 </p>
